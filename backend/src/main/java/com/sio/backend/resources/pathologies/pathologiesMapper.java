@@ -1,3 +1,6 @@
+package com.sio.backend.resources.pathologies;
+
+
 import com.sio.backend.resources.pathology.Pathologies;
 
 @

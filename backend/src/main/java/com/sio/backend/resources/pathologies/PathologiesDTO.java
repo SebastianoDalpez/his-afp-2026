@@ -1,3 +1,6 @@
+package com.sio.backend.resources.pathologies;
+
+
 import java.time.Instant;
 
 public record PathologiesDTO(

@@ -1,4 +1,4 @@
-package com.sio.backend.resources.pathology;
+package com.sio.backend.resources.pathologies;
 
 
 import java.time.Instant;
