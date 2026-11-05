@@ -4,6 +4,9 @@ package com.sio.backend.resources.pathologies;
 
 @Service
 public class PathologiesService {
+    
+    
+    
     @Autowired //notazione che ... DA FINIRE
     private PathologiesRepository repo;
 
@@ -34,5 +37,5 @@ public class PathologiesService {
         
         if (entity.isEmp)
     }
+    
 }
-
